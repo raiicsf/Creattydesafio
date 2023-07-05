@@ -1,0 +1,52 @@
+.cor-de-fundo{
+    background-color: #E8D1DC;
+
+}
+
+
+a{
+    text-decoration: none;
+    color: #ad135e;
+}
+
+a:hover{
+    background-color: #684141;
+    color:#313333;
+
+}
+
+
+.corpo{
+    color: #000;
+    background-color: #F7A6FF;
+}
+
+
+.teste{
+   text-align: center;
+   font-family:cursive; 
+}
+
+.FINE{font-family:cursive;}
+
+.bordao {
+border: #f6fa01;
+border-style: double;
+}
+
+.p1{
+    margin: 40px 40px 50px 40px;
+    border-style: solid;
+          background-color: #ebdeea;
+          color: #2b2b2b;
+          font-size: 16px;
+          font-family:cursive;
+             text-indent: 40px;
+
+    padding: 25px;
+    border: 10px solid #D570D6;
+}
+
+.t1{
+    border: 7px solid #D570D6;
+}
